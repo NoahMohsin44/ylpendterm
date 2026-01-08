@@ -1,6 +1,7 @@
 {
     "name": "video-assignment-site",
     "private": true,
+    "homepage": "https://NoahMohsin44.github.io/ylpendterm/",
     "version": "0.0.0",
     "type": "module",
     "scripts": {
